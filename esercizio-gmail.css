@@ -1,0 +1,54 @@
+body{
+    background-image: url(https://images.pexels.com/photos/301378/pexels-photo-301378.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+    margin: 70px;
+    
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+.Gmail{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+.hr{
+    color: white;
+    border: solid;
+}
+#Giallo{
+    background-color: yellow;
+    border-radius: 50%;
+    display: inline-block
+}
+
+ .object{
+     background-color: gray;
+     width: 20%;
+     color:white;
+     display: inline-block;
+    border: solid black 2px;
+ }   
+
+ .subject{
+    background-color: gray;
+    width: 75%;
+    color:white;
+    display: inline-block;
+    border: solid black 2px;
+ }
+ .grandezza{
+     width: 1200px;
+     text-align: center;
+ }
+ ::placeholder{
+     color: black;
+ }
+ footer{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+     
+ }
